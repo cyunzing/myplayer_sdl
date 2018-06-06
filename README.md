@@ -2,6 +2,6 @@
 
 KEY_SPACE:Pause/Start
 
-KEY_LEFT:Fast Forward
+KEY_LEFT:Rewind
 
-KEY_RIGHT:Rewind
+KEY_RIGHT:Fast Forward
